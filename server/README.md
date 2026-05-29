@@ -1,4 +1,4 @@
-# AgroVision AI — Backend
+# AgroVision AI - Backend
 
 Production-grade backend for the AgroVision AI platform.
 

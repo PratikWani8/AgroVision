@@ -1,0 +1,6 @@
+image_id,satellite,date,resolution,cloudCover
+S2A_001,Sentinel-2,2026-05-01,10m,5
+S2A_002,Sentinel-2,2026-05-03,10m,8
+LS8_001,Landsat-8,2026-05-04,30m,12
+S2A_003,Sentinel-2,2026-05-07,10m,3
+LS9_001,Landsat-9,2026-05-08,30m,10

@@ -1,0 +1,11 @@
+district,ndvi,ndwi,riskScore,riskLevel
+Pune,0.82,0.45,22,LOW
+Nashik,0.71,0.39,46,MEDIUM
+Nagpur,0.58,0.25,78,HIGH
+Kolhapur,0.88,0.49,18,LOW
+Satara,0.74,0.38,41,MEDIUM
+Aurangabad,0.62,0.28,72,HIGH
+Solapur,0.55,0.22,81,HIGH
+Amravati,0.60,0.27,69,MEDIUM
+Latur,0.53,0.20,85,HIGH
+Ahmednagar,0.67,0.32,52,MEDIUM

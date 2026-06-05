@@ -1,0 +1,57 @@
+{
+  "project": "AgroVision AI",
+
+  "active_model": "xgboost_model.pkl",
+
+  "models": [
+    {
+      "name": "xgboost_model.pkl",
+
+      "type": "XGBoost",
+
+      "version": "1.0.0",
+
+      "status": "active",
+
+      "createdAt": "2026-05-25",
+
+      "accuracy": 0.91,
+
+      "features": [
+        "ndvi",
+        "ndwi",
+        "rainfall",
+        "humidity",
+        "temperature",
+        "soilMoisture"
+      ],
+
+      "target": "diseaseRisk"
+    },
+
+    {
+      "name": "random_forest.pkl",
+
+      "type": "RandomForest",
+
+      "version": "1.0.0",
+
+      "status": "backup",
+
+      "createdAt": "2026-05-25",
+
+      "accuracy": 0.87,
+
+      "features": [
+        "ndvi",
+        "ndwi",
+        "rainfall",
+        "humidity",
+        "temperature",
+        "soilMoisture"
+      ],
+
+      "target": "diseaseRisk"
+    }
+  ]
+}

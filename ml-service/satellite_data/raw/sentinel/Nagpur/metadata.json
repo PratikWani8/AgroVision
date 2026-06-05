@@ -1,0 +1,39 @@
+{
+  "district": "Nagpur",
+
+  "state": "Maharashtra",
+
+  "provider": "Sentinel-2",
+
+  "source": "Sentinel Hub",
+
+  "resolution": "10m",
+
+  "coordinate_system": "EPSG:4326",
+
+  "capture_dates": [
+    "2026-05-01",
+    "2026-05-15"
+  ],
+
+  "files": [
+    "nagpur_2026_05_01.tif",
+    "nagpur_2026_05_15.tif"
+  ],
+
+  "bands": [
+    "B02",
+    "B03",
+    "B04",
+    "B08"
+  ],
+
+  "supported_indices": [
+    "NDVI",
+    "NDWI",
+    "EVI",
+    "SAVI"
+  ],
+
+  "primary_crop": "Cotton"
+}

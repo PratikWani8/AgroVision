@@ -138,7 +138,7 @@ AgroVision-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/agrovision-ai.git
+git clone https://github.com/PratikWani8/AgroVision_Ai.git
 
 cd agrovision-ai
 ```

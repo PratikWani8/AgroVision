@@ -1,6 +1,6 @@
-# AgroVision AI — ML Service
+# AgroVision - ML Service
 
-Production-grade geospatial AI microservice for:
+Production-grade geospatial ML microservice for:
 
 - crop disease detection
 - NDVI analytics
@@ -28,7 +28,7 @@ Built using:
 - Satellite Raster Processing
 - GeoTIFF Support
 - GIS District Clipping
-- AI Disease Prediction
+- ML Based Disease Prediction
 - District Risk Engine
 - Outbreak Analytics
 - Heatmap Generation
@@ -177,7 +177,7 @@ NDVI/EVI/NDWI
    ↓
 District Clipping
    ↓
-AI Prediction
+ML Prediction
    ↓
 GIS Heatmaps
 ```
@@ -198,7 +198,7 @@ GIS Heatmaps
 - modular architecture
 - scalable pipelines
 - GIS processing
-- AI analytics
+- ML analytics
 - Docker support
 - FastAPI microservice
 - real raster processing
